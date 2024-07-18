@@ -5,6 +5,7 @@
  * Copyright (c) 2014-2018 Rhyzz
  * License MIT
 */
+// Apply the plugin to the .wrapper element to make fields repeatable: $('.wrapper').repeatable_fields();
 
 (function($) {
 	"use strict";
